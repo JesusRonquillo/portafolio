@@ -30,7 +30,7 @@
   background-color: var(--title-color) !important;
 }
 
-@media screen and(max-width:992px) {
+@media screen and (max-width: 992px) {
   .testimonial__container {
     width: initial;
   }
