@@ -14,10 +14,11 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est
-            doloremque veritatis ut, quibusdam tenetur dolore qui eligendi dicta
-            error ipsam asperiores modi reiciendis obcaecati ipsum veniam,
-            nesciunt eum, consequatur sapiente.
+            {`I consider myself passionate about technology and innovation, I am
+            immersed in the world of programming and data scientist, current
+            member of GDG (Google Developer Group). Passionate about data
+            analysis and quantum computing algorithms for AI. Current member of
+            the INNICIA incubator (Univ. Católica Santa María).`}
           </p>
 
           <a href={CV} className="button button--flex">

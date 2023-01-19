@@ -57,10 +57,8 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum rerum
-        numquam consectetur veniam distinctio eligendi, ad officiis excepturi
-        error quaerat eius iste odio quibusdam odit aut provident minima!
-        Aspernatur, pariatur.
+        Hello everyone, I am in charge of developing everything you can imagine
+        and most importantly I love what I do. Welcome!!!
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
