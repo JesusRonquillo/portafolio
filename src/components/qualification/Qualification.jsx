@@ -158,7 +158,7 @@ const Qualification = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Frelance</h3>
+                <h3 className="qualification__title">Freelance</h3>
                 <span className="qualification__subtitle">
                   Argentina - Peru
                 </span>
