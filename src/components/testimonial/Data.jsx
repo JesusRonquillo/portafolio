@@ -13,14 +13,14 @@ export const Data = [
   {
     id: 2,
     image: Image2,
-    title: "Lucas Moy",
+    title: "Max Elias Figueroa Huaman",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results",
+      "Good job, the transition from the visual format to the coding was quite fast, the deadlines and work expectations for this MVP were met",
   },
   {
-    id: 1,
+    id: 3,
     image: Image3,
-    title: "Max Elias Figueroa Huaman",
+    title: "Lucas Moy",
     description:
       "A really good job, all aspects of the project were followed step by step and with good results",
   },
