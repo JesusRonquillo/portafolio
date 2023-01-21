@@ -22,6 +22,6 @@ export const Data = [
     image: Image3,
     title: "Lucas Moy",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results",
+      "The final result was a high-quality website, which met the expectations set in terms of design and functionality. The design was modern and attractive, and the navigation was intuitive and easy to use. Also, the website loaded quickly and worked smoothly on all devices and browsers, which is essential for an online academy as it allows for a better user experience.",
   },
 ];

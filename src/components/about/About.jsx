@@ -15,7 +15,7 @@ const About = () => {
           <Info />
           <p className="about__description">
             {`I consider myself passionate about technology and innovation, I am
-            immersed in the world of programming and data scientist, current
+            immersed in the programming world and data scientist, current
             member of GDG (Google Developer Group). Passionate about data
             analysis and quantum computing algorithms for AI. Current member of
             the INNICIA incubator (Univ. Católica Santa María).`}

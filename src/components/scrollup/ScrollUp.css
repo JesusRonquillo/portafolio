@@ -40,5 +40,6 @@
 @media screen and (min-width: 350px) {
   .scrollup {
     right: 1rem;
+    margin-bottom: 2rem;
   }
 }
