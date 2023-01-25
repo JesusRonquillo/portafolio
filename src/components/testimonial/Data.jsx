@@ -8,7 +8,7 @@ export const Data = [
     image: Image1,
     title: "Yuliana Alejandra Taipe Gutierrez",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results",
+      "The experience of working with Jesus is always satisfactory. Demonstrated having the necessary knowledge for the design of the first phase of the app, which was the identification of food at the time of scanning its entry into the refrigerator or cupboard, managing to include the necessary characteristics to identify more than X foods.",
   },
   {
     id: 2,
